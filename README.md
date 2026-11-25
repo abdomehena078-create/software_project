@@ -12,7 +12,7 @@ CSAI 203 - Introduction to Software Engineering, Fall 2026 (Team 1)
 A browser-based platform where instructors build question banks and timed quizzes, and students take assessments with auto-graded results.
 
 ## Documents
-- [SRS (Phase 2)](docs/CSAI203_SRS_Team1_202400436.pdf)
+- [SRS (Phase 2)](docs/phase2_srs/CSAI203_SRS_Team1_202400436.pdf)
 - [Design Document (Phase 3)](docs/phase3_design/CSAI203_Design_Team1_202400436.pdf)
 - [Design Diagrams (draw.io)](docs/phase3_design/CSAI203_Design_Diagrams_Team1.drawio)
 
